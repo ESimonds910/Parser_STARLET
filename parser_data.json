@@ -1,0 +1,27 @@
+{
+    "SSF1027_Total": {
+        "plates": [
+            "P1-1",
+            "P1-2",
+            "P2-1",
+            "P2-2",
+            "P3-1",
+            "P3-2",
+            "P4-1",
+            "P4-2"
+        ],
+        "points": 4,
+        "volumes": [
+            0.214285714,
+            0.011278195,
+            0.000593589,
+            3.12415e-05
+        ],
+        "od_file": true,
+        "std_conc": {},
+        "raw_file": "L:/High Throughput Screening/HiPrBind/SSF HPB runs/Spaniel/SPANIEL066_SSF1027_HiPrBind_AD_2022.05.22/Total/SSF1027_Total.csv",
+        "ab_name": "",
+        "proj_name": "SSF1027_Total",
+        "out_path": "L:/High Throughput Screening/HiPrBind/SSF HPB runs/Spaniel/SPANIEL066_SSF1027_HiPrBind_AD_2022.05.22/Total/SSF1027_Total_output.xlsx"
+    }
+}
